@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: There will be a final project, inlcuding a computer implementation of
+  a user interface using commonsense knowledge.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -11,6 +13,6 @@ There will be a final project, including a computer implementation of a user int
 
 The following are example student projects from 2002. All work is courtesy of the students named and used with permission.
 
-_The Common Sense DJ._ Joan Morris-DiMico, Carla Gomez, Roger Sipitakiat, and Luke Ouko ([PDF]({{< baseurl >}}/resources/proj_file1))
+_The Common Sense DJ._ Joan Morris-DiMico, Carla Gomez, Roger Sipitakiat, and Luke Ouko ({{% resource_link 63a24122-d008-b18b-61f0-62b26a55efbb "PDF" %}})
 
-_Acquiring Common Sense Through Simulation._ Andrea Lockerd ([PDF]({{< baseurl >}}/resources/proj_file3))
+_Acquiring Common Sense Through Simulation._ Andrea Lockerd ({{% resource_link 93eafce1-74ad-db79-6a74-cb7cfcbe6975 "PDF" %}})
