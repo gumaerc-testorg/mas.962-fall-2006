@@ -6,6 +6,7 @@ file: /courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: proj_file1.pdf
 uid: 63a24122-d008-b18b-61f0-62b26a55efbb
 ---
 Sample student project from 2002 courtesy of Joan Morris-DiMico, Carla Gomez, Roger Sipitakiat, and Luke Ouko.
-

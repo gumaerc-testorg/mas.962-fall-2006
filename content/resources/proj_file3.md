@@ -5,6 +5,7 @@ file: /courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: proj_file3.pdf
 uid: 93eafce1-74ad-db79-6a74-cb7cfcbe6975
 ---
 Sample student project from 2002 courtesy of Andrea Lockerd.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Causal-diversity matrix, showing number of causes and scale of effect.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-962f06-th.jpg
 uid: b51739bc-04f1-f029-ea6f-c866dd3d5dd1
 ---
 New image Upload
-
