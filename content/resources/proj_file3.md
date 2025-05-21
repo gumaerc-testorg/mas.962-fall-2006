@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student project from 2002 courtesy of Andrea Lockerd.
-file: /ol-ocw-studio-app/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/93eafce174addb796a74cb7cfcbe6975_proj_file3.pdf
+file: /courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/93eafce174addb796a74cb7cfcbe6975_proj_file3.pdf
 file_size: 261236
 file_type: application/pdf
 learning_resource_types:
