@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/b51739bc04f1f029ea6fc866dd3d5dd1_mas-962f06-th.jpg
+file: /ol-ocw-studio-app/courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006/b51739bc04f1f029ea6fc866dd3d5dd1_mas-962f06-th.jpg
 file_size: 3135
 file_type: image/jpeg
 image_metadata:
